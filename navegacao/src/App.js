@@ -1,4 +1,5 @@
 import React from 'react'
+import 'react-native-gesture-handler'
 import { SafeAreaView, Text } from 'react-native'
 //import TextoCentral from './components/TextoCentral'
 import TelaA from './views/TelaA'
